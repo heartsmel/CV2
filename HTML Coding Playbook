@@ -1,0 +1,39 @@
+<br><center>
+<hr size="5" noshade>
+  <center><h1>HTML Coding Playbook</h1>
+<hr size="5" noshade>
+    <br></center>
+
+<!-- Heading Codes -->
+<h2><u>Heading Codes (H1 to H6)</h2></u>
+<h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
+<br>
+<!-- EM VS I -->
+  <h2><u>Emphasis (em) VS Italicize (i)</h2></u>
+  <p><em>Italicize with this instead of i, to bring emphasis meaning rather than just appearance </em></p>
+  <br>
+  <!-- Strong VS B -->
+  <h2><u>Strong (strong) VS Bold (b)</h2></u>
+    <p><strong>Bold with this instead of b, to bring substance rather than just appearance bold</u></strong></p>
+  <br>
+<!--Ordered List & Unordered List-->
+<h2><u>Ordered List (numbering) & Unordered List (bullet points)</u></h2>
+
+<!--Unordered List-->
+<ul>
+  <li>Bullet point 1</li>
+  <li>Bullet point 2</li>
+  <li>Bullet point 3</li>
+</ul>
+
+<!--Ordered List-->
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
